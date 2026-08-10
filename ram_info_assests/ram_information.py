@@ -47,5 +47,21 @@ def ram_info ():
     if ram_percentage_choice == "n":
         print(" ")
 
+    print("===========================================================")
+    print("")
+    print("What action do you wanna do next?")
+    print("[1] Go back")
+    print("[2] Exit")
+    print("[3]  Refresh")
+    print("")
+    print("===========================================================")
+    options_choice = int(input("pls write the number from (1-3): "))
+    import sys
+    if options_choice == 1:
+        return
+    if options_choice == 2:
+        sys.exit()
+    if options_choice == 3:
+        ram_info()
 
 ram_info
