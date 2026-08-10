@@ -1,5 +1,4 @@
-# PC System Information Utility Tool
-
+# PC System Information Utility ToolA Python utility for viewing useful information about your PC.
 A Python project that displays useful information about your PC.
 
 ##  Important
