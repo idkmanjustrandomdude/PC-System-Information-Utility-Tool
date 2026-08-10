@@ -3,7 +3,6 @@ A Python project that displays useful information about your PC.
 
 ##  Important
 
-* **Requires the `psutil` module** to be installed on your system.
 * I am working on adding a feature that will allow the program to install `psutil` automatically using **Yes/No options**.
 * If you have ideas or can help improve the `psutil` installation feature, feel free to **open a pull request**.
 * If someone can help me add **GPU Information**, please feel free to **open a pull request**.
@@ -13,7 +12,6 @@ A Python project that displays useful information about your PC.
 * [x] CPU information
 * [x] RAM information
 * [x] Disk information
-* [ ] Automatic `psutil` installation
 * [x] OS information
 * [ ] GPU informatiob
 
